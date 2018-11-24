@@ -38,12 +38,13 @@
             this.textBox1.Location = new System.Drawing.Point(118, 57);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(379, 143);
+            this.textBox1.Size = new System.Drawing.Size(374, 82);
             this.textBox1.TabIndex = 0;
+            this.textBox1.Text = "Nhập đề bài vào đây";
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(536, 116);
+            this.button1.Location = new System.Drawing.Point(508, 55);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 1;
@@ -54,7 +55,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(179, 264);
+            this.label1.Location = new System.Drawing.Point(115, 162);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(44, 13);
             this.label1.TabIndex = 2;

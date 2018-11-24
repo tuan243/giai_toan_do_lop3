@@ -21,7 +21,7 @@ namespace toandolop3csharp
             InitializeComponent();
         }
 
-        void SplitSentences(string problem)
+        void OneExpressionMath()
         {
             label1.Text = "Bài Giải:\n";
             string donvi = "";
@@ -30,10 +30,7 @@ namespace toandolop3csharp
             string operand2;
 
             string[] sentences = problem.Split(',', '.','?');
-            //foreach(string str in sentences)
-            //{
-            //    label1.Text += str + "\n";
-            //}
+
             doituong2 = sentences[2].Substring(sentences[2].IndexOf("Hỏi") + 4, sentences[2].IndexOf("bao nhiêu") - sentences[2].IndexOf("Hỏi") - 5);
             donvi = sentences[2].Substring(sentences[2].IndexOf("bao nhiêu") + 10);
             operand1 = Regex.Match(sentences[0], @"\d+").Value;
@@ -73,7 +70,7 @@ namespace toandolop3csharp
         private void button1_Click(object sender, EventArgs e)
         {
             problem = textBox1.Text;
-            SplitSentences(problem);
+            OneExpressionMath();
         }
     }
 }
