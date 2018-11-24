@@ -1,0 +1,10 @@
+c:\users\tuan\source\repos\toandolop3csharp\toandolop3csharp\bin\Debug\toandolop3csharp.exe.config
+c:\users\tuan\source\repos\toandolop3csharp\toandolop3csharp\bin\Debug\toandolop3csharp.exe
+c:\users\tuan\source\repos\toandolop3csharp\toandolop3csharp\bin\Debug\toandolop3csharp.pdb
+c:\users\tuan\source\repos\toandolop3csharp\toandolop3csharp\obj\Debug\toandolop3csharp.csprojAssemblyReference.cache
+c:\users\tuan\source\repos\toandolop3csharp\toandolop3csharp\obj\Debug\toandolop3csharp.Form1.resources
+c:\users\tuan\source\repos\toandolop3csharp\toandolop3csharp\obj\Debug\toandolop3csharp.Properties.Resources.resources
+c:\users\tuan\source\repos\toandolop3csharp\toandolop3csharp\obj\Debug\toandolop3csharp.csproj.GenerateResource.cache
+c:\users\tuan\source\repos\toandolop3csharp\toandolop3csharp\obj\Debug\toandolop3csharp.csproj.CoreCompileInputs.cache
+c:\users\tuan\source\repos\toandolop3csharp\toandolop3csharp\obj\Debug\toandolop3csharp.exe
+c:\users\tuan\source\repos\toandolop3csharp\toandolop3csharp\obj\Debug\toandolop3csharp.pdb
